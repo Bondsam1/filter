@@ -8,7 +8,7 @@ while(1):
         if(k==i):
             judge=False
     if(judge==False):
-        print('ブーブーですわ')
+        print('Not OK')
     else:
         print('OK')
     judge=True
